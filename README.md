@@ -31,3 +31,6 @@ heart-disease-prediction-app/
     ├── index.html
     ├── model.html
     └── results.html
+
+🚀 Live Demo
+🔗 Live Application: https://heart-disease-prediction-app-7y6u.onrender.com/
